@@ -1,0 +1,7 @@
+RENCANA KONTEN RICO
+- JS
+  * ES6
+  * Framework JS
+- PHP Framework
+- Interview
+- Blog
